@@ -29,10 +29,16 @@ theme = "PaperMod"
     weight = 40
 
   [[menu.main]]
+    identifier = "extras"
+    name = "Extras"
+    url = "/extras"
+    weight = 50
+
+  [[menu.main]]
     identifier = "resources"
     name = "Resources"
     url = "/resources"
-    weight = 50
+    weight = 60
 
 [params]
   showToc = true
@@ -77,7 +83,7 @@ theme = "PaperMod"
 
 [[params.socialIcons]]
   name = "CV"
-  url = "/portfolio/Rajat_Saxena_CV.pdf"
+  url = "/Rajat_Saxena_CV.pdf"
 
 [params.fuseOpts]
   isCaseSensitive = false

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Rajat Saxena</title>
+    <link>https://rajatsaxena314.github.io/</link>
+    <description>Recent content on Rajat Saxena</description>
+    <generator>Hugo -- 0.148.2</generator>
+    <language>en-us</language>
+    <atom:link href="https://rajatsaxena314.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LIGO India Education and Public</title>
+      <link>https://rajatsaxena314.github.io/outreach/ligo-india/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://rajatsaxena314.github.io/outreach/ligo-india/</guid>
+      <description>Inter University Center for Astronomy and Astrophysics | January 2023 – July 2024</description>
+    </item>
+    <item>
+      <title>MSc in Physics</title>
+      <link>https://rajatsaxena314.github.io/education/lmu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://rajatsaxena314.github.io/education/lmu/</guid>
+      <description>Ludwig-Maximilians-Universität München | October 2024 - Present</description>
+    </item>
+    <item>
+      <title>N-body Simulations of Dust Cloud Collapse in Star–Disk Systems</title>
+      <link>https://rajatsaxena314.github.io/research/usm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://rajatsaxena314.github.io/research/usm/</guid>
+      <description>Research Intern | Universitäts-Sternwarte München, Ludwig-Maximilians-Universität | March 2025 - Present</description>
+    </item>
+    <item>
+      <title>BSc Blended in Physics</title>
+      <link>https://rajatsaxena314.github.io/education/sppu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://rajatsaxena314.github.io/education/sppu/</guid>
+      <description>Interdisciplinary School of Science, Savitribai Phule Pune University | October 2021 - June 2024 | &lt;strong&gt;CGPA: 9.32&lt;/strong&gt;</description>
+    </item>
+    <item>
+      <title>Science Popularization Center</title>
+      <link>https://rajatsaxena314.github.io/outreach/scipop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://rajatsaxena314.github.io/outreach/scipop/</guid>
+      <description>Inter University Center for Astronomy and Astrophysics | Volunteered Occasionally</description>
+    </item>
+    <item>
+      <title>Simulation and Analysis of the 1D Random Field Ising Model at Zero Temperature</title>
+      <link>https://rajatsaxena314.github.io/research/iiser-pune/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://rajatsaxena314.github.io/research/iiser-pune/</guid>
+      <description>Bachelor Thesis | Indian Institute of Science Education and Research (IISER), Pune | July 2023 - May 2024</description>
+    </item>
+    <item>
+      <title>IDSS Space Society</title>
+      <link>https://rajatsaxena314.github.io/outreach/space-soc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://rajatsaxena314.github.io/outreach/space-soc/</guid>
+      <description>Cofounder and Research Head | October 2021 – July 2023</description>
+    </item>
+    <item>
+      <title>Observational Measurement of the Milky Way 21-cm Hydrogen Line and Rotation Curve</title>
+      <link>https://rajatsaxena314.github.io/research/iucaa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://rajatsaxena314.github.io/research/iucaa/</guid>
+      <description>Summer Intern | Inter-University Centre for Astronomy and Astrophysics (IUCAA) | Jun 2023 - Jul 2023</description>
+    </item>
+    <item>
+      <title>Investigation of Off-Pulse Emission from the Crab Pulsar using uGMRT Data</title>
+      <link>https://rajatsaxena314.github.io/research/ncra-tifr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://rajatsaxena314.github.io/research/ncra-tifr/</guid>
+      <description>Research Intern | National Centre for Radio Astrophysics - TIFR | September 2022 - July 2023</description>
+    </item>
+    <item>
+      <title>Resources</title>
+      <link>https://rajatsaxena314.github.io/resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://rajatsaxena314.github.io/resources/</guid>
+      <description>Below are some of my presentations, talks and reference material.</description>
+    </item>
+  </channel>
+</rss>

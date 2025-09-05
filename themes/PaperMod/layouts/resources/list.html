@@ -1,0 +1,17 @@
+{{ define "main" }}
+<div class="page-resources">
+  <div class="resource-grid">
+    {{ range .Pages.ByWeight }}
+    <div class="resource-card">
+      {{ if .Params.image }}
+        <img src="{{ .Params.image | relURL }}" alt="{{ .Title }}">
+      {{ end }}
+      <div class="card-content">
+        <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+        <p>{{ .Params.description }}</p>
+      </div>
+    </div>
+    {{ end }}
+  </div>
+</div>
+{{ end }}

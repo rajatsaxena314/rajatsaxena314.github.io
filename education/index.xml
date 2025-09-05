@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Educations on Rajat Saxena</title>
+    <link>https://rajatsaxena314.github.io/education/</link>
+    <description>Recent content in Educations on Rajat Saxena</description>
+    <generator>Hugo -- 0.148.2</generator>
+    <language>en-us</language>
+    <atom:link href="https://rajatsaxena314.github.io/education/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MSc in Physics</title>
+      <link>https://rajatsaxena314.github.io/education/lmu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://rajatsaxena314.github.io/education/lmu/</guid>
+      <description>Ludwig-Maximilians-Universität München | October 2024 - Present</description>
+    </item>
+    <item>
+      <title>BSc Blended in Physics</title>
+      <link>https://rajatsaxena314.github.io/education/sppu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://rajatsaxena314.github.io/education/sppu/</guid>
+      <description>Interdisciplinary School of Science, Savitribai Phule Pune University | October 2021 - June 2024 | &lt;strong&gt;CGPA: 9.32&lt;/strong&gt;</description>
+    </item>
+  </channel>
+</rss>

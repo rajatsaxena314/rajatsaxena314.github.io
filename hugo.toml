@@ -1,0 +1,98 @@
+baseURL = "https://rajatsaxena314.github.io/"
+languageCode = "en-us"
+title = "Rajat Saxena"
+theme = "PaperMod"
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 10
+
+  [[menu.main]]
+  identifier = "education"
+  name = "Education"
+  url = "/education"  
+  weight = 20
+
+  [[menu.main]]
+    identifier = "research"
+    name = "Research"
+    url = "/research"
+    weight = 30
+
+  [[menu.main]]
+    identifier = "outreach"
+    name = "Outreach"
+    url = "/outreach"
+    weight = 40
+
+  [[menu.main]]
+    identifier = "resources"
+    name = "Resources"
+    url = "/resources"
+    weight = 50
+
+[params]
+  showToc = true
+  TocOpen = false
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  hideMeta = false
+  env = "production"
+  hideDescriptionInList = false
+  math = true
+       
+
+[params.profileMode]
+  enabled = true
+  title = "Rajat Saxena"
+  subtitle = "I am a Master's student at <u>[Ludwig-Maximilians-Universität München](https://www.physik.lmu.de/en/)</u> and currently interning at the <u>[Birnsteil Group](https://www.physik.lmu.de/observatory/en/research/stars-planets-and-life/planet-formation-and-protoplanetary-disks/)</u>. My research interests lie in Theoretical and Computational Physics, with a focus on Statistical Mechanics and Astrophysics. Additionally, I have developed a keen interest in the fundamentals and physics of Machine Learning. Outside of academics, I enjoy exploring philosophy and history through reading and discussion."
+  imageUrl = "/portfolio/IMG_1988.jpg"
+  imageWidth = 220
+  imageHeight = 220
+  imageTitle = ""
+  imageRight = true  
+
+[params.cover]
+  hiddenInList = false
+  hiddenInSingle = false
+
+[[params.socialIcons]]
+  name = "email"
+  url = "mailto:rajat.saxena@campus.lmu.de"
+
+[[params.socialIcons]]
+  name = "Linkedin"
+  url = "https://www.linkedin.com/in/rajatsaxena314/"
+
+[[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/rajatsaxena314"
+
+[[params.socialIcons]]
+  name = "researchgate"
+  url = "https://www.researchgate.net/profile/Rajat-Saxena-14"
+
+[[params.socialIcons]]
+  name = "CV"
+  url = "/portfolio/Rajat_Saxena_CV.pdf"
+
+[params.fuseOpts]
+  isCaseSensitive = false
+  shouldSort = true
+  location = 0
+  distance = 1000
+  threshold = 0.4
+  minMatchCharLength = 0
+  keys = ["title", "permalink", "summary", "content"]
+
+# Important: This prevents Hugo from looking for /public in Git
+publishDir = "public"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[markup.goldmark.renderer]
+  unsafe = true

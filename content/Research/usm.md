@@ -19,7 +19,7 @@ The N-body simulations were made using the Python package [REBOUND](https://rebo
 - Communicated complex research insights for a broader audience through Astrobites articles, summarizing the group’s findings in an accessible and engaging manner while maintaining scientific accuracy.   
 
 #### Results:
-![](/portfolio/research/USM.png)
+![](/research/USM.png)
 The plot shows dust particles initialized with different orbital conditions gradually losing vertical momentum due to gas drag and becoming embedded within the disk.
 
 #### Material:

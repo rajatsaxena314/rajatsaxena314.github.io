@@ -95,7 +95,7 @@ jobs:
           hugo \
             --gc \
             --minify \
-            --baseURL "https://rajatsaxena314.github.io/portfolio/" \
+            --baseURL "https://rajatsaxena314.github.io/" \
             --cacheDir "${{ runner.temp }}/hugo_cache"
 
       - name: Cache save

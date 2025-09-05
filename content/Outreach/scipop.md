@@ -12,4 +12,4 @@ showtoc = false
 - Volunteered to operate telescopes at the “International Observe the Moon Night” an initiative of NASA.
 - Trained other volunteers to use telescopes.
 
-![](/portfolio/outreach/scipop.jpeg)
+![](/outreach/scipop.jpeg)

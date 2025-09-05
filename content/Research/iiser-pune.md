@@ -20,7 +20,7 @@ The project was inspired by Exercise 8.13 in the book ["Entropy, Order Parameter
 
 #### Few Results:
 
-![](/portfolio/research/IISER_1.png)
+![](/research/IISER_1.png)
 Figure (Top) is the H vs M curve for a 1-D lattice with a random Gaussian field of R = 3.1.  
 Figure (Bottom) is the H vs M curve for different lattice sizes. Both plots are outputs from the simulation.
 ![](/portfolio/research/IISER_2.png)

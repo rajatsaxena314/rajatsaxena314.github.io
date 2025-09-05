@@ -21,5 +21,5 @@ showtoc = false
 - Explored advanced pulsar analysis topics including folding, dedispersion, and time-domain signal processing, bridging computational methods with observational radio astronomy.
 
 #### Results:
-![](/portfolio/research/NCRA.jpg)
+![](/research/NCRA.jpg)
 The figure displays the folded pulse profile of the Crab Pulsar derived from time-series observations.

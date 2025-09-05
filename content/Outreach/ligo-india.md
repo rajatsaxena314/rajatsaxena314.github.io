@@ -22,4 +22,4 @@ Mentor: [Dr Debarati Chatterjee](https://www.iucaa.in/en/faculty-research/debara
 - [GuessWhat 1](https://www.instagram.com/p/CwfvTAIocIX)
 - [GuessWhat 2](https://www.instagram.com/p/CvT5qefI8Qw)
 
-![](/portfolio/outreach/LIGO.jpg)
+![](/outreach/LIGO.jpg)

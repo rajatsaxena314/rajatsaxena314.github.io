@@ -24,7 +24,7 @@ math = true
 - In summary, measured 21-cm HI emission to derive the Milky Way rotation curve from Doppler-shifted velocities.
 
 #### Results:
-![](/portfolio/research/IUCAA_1.png)
+![](/research/IUCAA_1.png)
 The plot illustrates the deviations between the theoretical rotation curve and the observed Milky Way rotation curve.
 
 #### Material:

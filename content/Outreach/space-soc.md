@@ -11,4 +11,4 @@ showtoc = false
 - Earned recognition as [Registered Space Tutors of ISRO]( https://www.isro.gov.in/spacetutor.html ) by CBPO, ISRO, for impactful outreach efforts.
 - Designed and built an 8-inch Newtonian Telescope, securing funding support from Pune University for its construction.
 
-![](/portfolio/outreach/spacesoc.jpg)
+![](/outreach/spacesoc.jpg)

@@ -54,7 +54,7 @@ theme = "PaperMod"
 [params.profileMode]
   enabled = true
   title = "Rajat Saxena"
-  subtitle = "I am a Master's student at <u>[Ludwig-Maximilians-Universität München](https://www.physik.lmu.de/en/)</u> and currently interning at the <u>[Birnsteil Group](https://www.physik.lmu.de/observatory/en/research/stars-planets-and-life/planet-formation-and-protoplanetary-disks/)</u>. My research interests lie in Theoretical and Computational Physics, with a focus on Statistical Mechanics and Astrophysics. Additionally, I have developed a keen interest in the fundamentals and physics of Machine Learning. Outside of academics, I enjoy exploring philosophy and history through reading and discussion."
+  subtitle = "I am a Master's student at <u>[Ludwig-Maximilians-Universität München](https://www.physik.lmu.de/en/)</u> and currently interning at the <u>[Birnsteil Group](https://www.physik.lmu.de/observatory/en/research/stars-planets-and-life/planet-formation-and-protoplanetary-disks/)</u>. My research interests lie in Theoretical and Computational Physics, with a focus on Statistical Mechanics and Astrophysics. Additionally, I have developed a keen interest in the fundamentals and physics of Machine Learning. Outside of academics, I enjoy exploring philosophy and history."
   imageUrl = "/IMG_1988.jpg"
   imageWidth = 220
   imageHeight = 220

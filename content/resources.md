@@ -8,6 +8,8 @@ showToc = false
 
 - [An Astrobite Article: On Planet Formation](https://astrobites.org/2025/08/26/build-a-planet-workshop-planet-formation-one-bump-at-a-time/)
 
+- [Featured on globalscholarships.com](https://globalscholarships.com/scholarship-posts/rajat-saxena/)
+
 - [Presentation given for a seminar on "Non-Equilibrium Physics of Machine Learning"](https://www.researchgate.net/publication/392726891_Emergent_Weight_Morphologies_in_Deep_Neural_Networks)
 
 - [Old Portfolio (Based on Google Sites)](https://sites.google.com/view/rajatsaxena)

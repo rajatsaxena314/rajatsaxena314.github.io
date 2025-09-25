@@ -1,13 +1,15 @@
 +++
 title = "MSc in Physics"
-summary = "Ludwig-Maximilians-Universität München | October 2024 - Present" 
+summary = "Faculty of Physics | Ludwig-Maximilians-Universität München | October 2024 - Present | Grade: 2.24" 
 dateString = "Mar 2023"
 draft = false
 weight = 10
 showtoc = false
 +++
 
-Ludwig-Maximilians-Universität München | October 2024 - Present   
+Faculty of Physics | Ludwig-Maximilians-Universität München | October 2024 - Present   
+
+**Current Grade: 2.24** (1 Highest, 5 Fail)
 
 ### Relevant Course Work:
 

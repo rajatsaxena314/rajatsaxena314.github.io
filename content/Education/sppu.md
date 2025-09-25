@@ -9,7 +9,7 @@ showtoc = false
 
 Interdisciplinary School of Science, Savitribai Phule Pune University | October 2021 - June 2024  
 
-**Final CGPA: 9.32** 
+**Final CGPA: 9.32** (10 Highest, 4 Fail)
 
 The course was in collaboration with the University of Melbourne and IISER-Pune. The course meets international standards and is quality-assured by the University of Melbourne, Australia. 
 

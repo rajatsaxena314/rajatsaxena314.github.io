@@ -1,6 +1,6 @@
 +++
 title = "Extras"
-description = "This section has details about my [AI & ML projects](https://rajatsaxena314.github.io/extras/#ai--ml-projects), [Conferences](https://rajatsaxena314.github.io/extras/#selected-conferences) and [Workshops](https://rajatsaxena314.github.io/extras/#relevant-workshops)"
+description = "This section has details about my AI & ML projects, Conferences and Workshops"
 showToc = false
 +++
 

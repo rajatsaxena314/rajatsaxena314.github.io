@@ -1,21 +1,31 @@
 +++
 title = "Extras"
-description = "This section has details about my AI & ML projects, Conferences and Workshops"
+description = "This section has details about my [AI & ML projects](https://rajatsaxena314.github.io/extras/#ai--ml-projects), [Conferences](https://rajatsaxena314.github.io/extras/#selected-conferences) and [Workshops](https://rajatsaxena314.github.io/extras/#relevant-workshops)"
 showToc = false
 +++
 
 ## AI & ML Projects
 - **CNNs for Mass Estimation of X-Rays Clusters**  
-    Convolutional Neural Networks (CNNs) are employed to estimate the masses of galaxy clusters from simulated X-ray images and redshift data. Code avaliable [here](https://github.com/rajatsaxena314/CNNs-for-Mass-Estimation-of-X-Rays-Clusters).
+    Employed Convolutional Neural Networks (CNNs) to estimate Galaxy cluster masses from simulated X-ray
+    images and redshift data of clusters. The redshift data was concatenated to the convoluted and flattened image
+    data before being fed to the fully connected network. Code avaliable [here](https://github.com/rajatsaxena314/CNNs-for-Mass-Estimation-of-X-Rays-Clusters).
 
 - **Emergent Weight Morphologies in Deep Neural Networks**  
-    Investigated emergent structural patterns in neural network weights arising independently of training data and developed a simple mathematical model to explain the phenomenon. Relevant Paper avaliable [here](https://arxiv.org/abs/2501.05550)
+    Investigated the emergent structural patterns in neural network weights that arise independently of the training
+    data. Also examined how these structural patterns change with alterations in hyperparameters and training
+    strategies. Relevant Paper avaliable [here](https://arxiv.org/abs/2501.05550)
 
-- **Variational Monte Carlo with Restricted Boltzmann Machines for Quantum Many-Body Hamiltonians**  
-    Implemented a restricted Boltzmann machine ansatz to variationally approximate the ground state of a Rydberg atom Hamiltonian, bridging machine learning methods with quantum many-body physics.
+- **Neural Networks for Quantum Many-Body Physics**  
+    Implemented a Restricted Boltzmann Machine (RBM) ansatz within a Monte Carlo framework to approximate the
+    ground state of a Rydberg atom Hamiltonian. Utilised the expressive capacity of RBMs to represent many-body
+    wavefunctions and employed stochastic gradient optimisation to minimise the variational energy.
 
 - **Simulation-Based Inference for Bayesian Cosmological Data Analysis**  
-    Explored machine learning–driven likelihood-free inference methods to perform Bayesian parameter estimation in cosmology, highlighting their statistical rigor and necessity for analyses with intractable likelihoods.
+    Developed a simulation-based inference framework using autoencoder compression and normalising flows to
+    recover cosmological parameters from Gaussian random fields. Benchmarked learned posteriors against analytic
+    Fourier-space likelihoods, identifying effects of compression loss and autoencoder overfitting.
+
+---
 
 ## Selected Conferences
 ### Oral Presentations
@@ -27,6 +37,7 @@ showToc = false
 
 2. [**National Space Science Symposium**](https://nsss2024.unigoa.ac.in/), Indian Space Research Organization (ISRO), February 2024
 
+---
 
 ## Relevant Workshops
 1. [**German Italian Physics Exchange**](https://ai-sf.it/gipe/), German Physical Society & Associazione Italiana Studenti di Fisica, Sept 2025.  

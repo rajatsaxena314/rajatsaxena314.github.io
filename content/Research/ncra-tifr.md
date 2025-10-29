@@ -2,7 +2,7 @@
 title = "Investigation of Off-Pulse Emission from the Crab Pulsar using uGMRT Data"
 summary = "Research Intern | National Centre for Radio Astrophysics - TIFR | September 2022 - July 2023"
 draft = false
-weight = 40
+weight = 50
 showtoc = false
 +++
 

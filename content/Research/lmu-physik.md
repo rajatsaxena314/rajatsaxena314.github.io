@@ -1,22 +1,20 @@
 +++
-title = "N-body Simulations of Dust Cloud Collapse in Star–Disk Systems"
-summary = "Research Intern | Universitäts-Sternwarte München, Ludwig-Maximilians-Universität | March 2025 - Present"
+title = "Investigating the self-organized hierarchy in robtoic matter driven my neural networks"
+summary = "Master's Thesis | Arnold Sommerfeld Center for Theoretical Physics, Ludwig-Maximilians-Universität | October 2025 - Present"
 draft = false
-weight = 20
+weight = 10
 showtoc = false
 +++
 
-#### Research Intern | [Universitäts-Sternwarte München](https://www.usm.uni-muenchen.de/), Ludwig-Maximilians-Universität | March 2025 - Present 
+#### Master's Thesis | [Rulands Group](https://www.theorie.physik.uni-muenchen.de/lsfrey/group_rulands/index.html), [Arnold Sommerfeld Center for Theoretical Physics](https://www.theorie.physik.uni-muenchen.de/index.html), Ludwig-Maximilians-Universität | March 2025 - Present 
 
-#### Mentor: [Dr Til Birnstiel](https://www.physik.lmu.de/en/about-us/people/contact-page/til-birnstiel-abb3ee27.html), Professor 
+#### Mentor: [Prof. Dr Steffen Rualnds](https://www.theorie.physik.uni-muenchen.de/lsfrey/members/group_leaders/steffen_rulands/index.html) & [Onurcan Bektas](https://www.theorie.physik.uni-muenchen.de/lsfrey/members/phd_postdocs/onurcan_bektas/index.html)
 
 The N-body simulations were made using the Python package [REBOUND](https://rebound.readthedocs.io/en/latest/) 
 
 - Developed and executed N-body simulations to investigate the gravitational collapse of a dust cloud in the presence of a central star and a pre-existing (collapsed) gas disk, focusing on the interaction between stellar gravity and disk-induced forces on gas drag. 
 
 - Modeled coupled dust–gas dynamics during protostar formation by integrating particle trajectories with hydrodynamic fields, using snapshots from [Tarā](https://plg.physlab.uni-due.de/tara-database/) simulations to temporally and spatially interpolate local gas density, velocity, and temperature. This approach allowed for a faster computation of particle trajectories compared to hydrodynamics simulation performed in [2024, A&A, 687, A158](https://ui.adsabs.harvard.edu/abs/2024A%26A...687A.158B/abstract)
-
-- Developed and implemented semi-implicit and exponential midpoint integrators in Python, inspired by [2019, ApJS, 244, 38](https://iopscience.iop.org/article/10.3847/1538-4365/ab4356). Executed simulations on an independently built codebase, achieving faster performance than REBOUND. Additionally, designed an epsilon-implicit integrator that allows the degree of implicitness to be adaptively controlled by the ratio of timestep to stopping time.
 
 - Communicated complex research insights for a broader audience through Astrobites articles, summarizing the group’s findings in an accessible and engaging manner while maintaining scientific accuracy.   
 

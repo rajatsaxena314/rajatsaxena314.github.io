@@ -2,7 +2,7 @@
 title = "Simulation and Analysis of the 1D Random Field Ising Model at Zero Temperature"
 summary = "Bachelor Thesis | Indian Institute of Science Education and Research (IISER), Pune | July 2023 - May 2024"
 draft = false
-weight = 20
+weight = 30
 showtoc = false
 +++
 

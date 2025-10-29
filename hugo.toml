@@ -54,14 +54,17 @@ theme = "PaperMod"
 [params.profileMode]
   enabled = true
   title = "Rajat Saxena"
-  subtitle = "I am a Master's student at <u>[Ludwig-Maximilians-Universität München](https://www.physik.lmu.de/en/)</u> and currently interning at the <u>[Birnsteil Group](https://www.physik.lmu.de/observatory/en/research/stars-planets-and-life/planet-formation-and-protoplanetary-disks/)</u>. My research interests lie in Theoretical and Computational Physics, with a focus on Statistical Mechanics and Astrophysics. Additionally, I have developed a keen interest in the fundamentals and physics of Machine Learning. Outside of academics, I enjoy exploring philosophy and history."
-  imageUrl = "/IMG_1988.jpg"
+  subtitle = "I am a Master's student at <u>[Ludwig-Maximilians-Universität München](https://www.physik.lmu.de/en/)</u> and currently doing master’s thesis at the <u>[Rulands Group](https://www.theorie.physik.uni-muenchen.de/lsfrey/group_rulands/index.html)</u>. My research interests lie in Theoretical and Computational Physics, with a focus on Statistical Mechanics and Astrophysics. Additionally, I have developed a keen interest in the fundamentals and non-equilibrium physics of Machine Learning. Outside of academics, I enjoy exploring philosophy and history."
   imageWidth = 220
   imageHeight = 220
   imageTitle = ""
-  imageRight = true  
+  buttons = [
+    { name = "Thesis", url = "/research/lmu-physik/"}
+    { name = "AI/ML Projects", url = "https://rajatsaxena314.github.io/extras/#ai--ml-projects"} 
+  ]
+    
 
-[params.cover]
+[params.cover]xs
   hiddenInList = false
   hiddenInSingle = false
 

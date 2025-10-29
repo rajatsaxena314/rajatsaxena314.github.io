@@ -2,7 +2,7 @@
 title = "Observational Measurement of the Milky Way 21-cm Hydrogen Line and Rotation Curve"
 summary = "Summer Intern | Inter-University Centre for Astronomy and Astrophysics (IUCAA) | Jun 2023 - Jul 2023"
 draft = false
-weight = 30
+weight = 40
 showtoc = false
 math = true
 +++

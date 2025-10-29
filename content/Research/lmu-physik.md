@@ -1,5 +1,5 @@
 +++
-title = "Investigating the self-organized hierarchy in robtoic matter driven my neural networks"
+title = "Investigating the Emergence of Self-Organized Hierarchies in Neural Network–Driven Robotic Matter"
 summary = "Master's Thesis | Arnold Sommerfeld Center for Theoretical Physics, Ludwig-Maximilians-Universität | October 2025 - Present"
 draft = false
 weight = 10
@@ -14,4 +14,4 @@ showtoc = false
 
 - Assembling and programming autonomous robots to perform collective tasks. Implementing multiple neural network architectures trained on multimodal sensory inputs.
 
-- esigning and simulating experiments to model and analyse collective behaviour and performance outcomes under different tasks. 
+- Designing and simulating experiments to model and analyse collective behaviour and performance outcomes under different tasks. 

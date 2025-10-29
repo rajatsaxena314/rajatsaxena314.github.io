@@ -55,16 +55,13 @@ theme = "PaperMod"
   enabled = true
   title = "Rajat Saxena"
   subtitle = "I am a Master's student at <u>[Ludwig-Maximilians-Universität München](https://www.physik.lmu.de/en/)</u> and currently doing master’s thesis at the <u>[Rulands Group](https://www.theorie.physik.uni-muenchen.de/lsfrey/group_rulands/index.html)</u>. My research interests lie in Theoretical and Computational Physics, with a focus on Statistical Mechanics and Astrophysics. Additionally, I have developed a keen interest in the fundamentals and non-equilibrium physics of Machine Learning. Outside of academics, I enjoy exploring philosophy and history."
+  imageUrl = "/IMG_1988.jpg"
   imageWidth = 220
   imageHeight = 220
   imageTitle = ""
-  buttons = [
-    { name = "Thesis", url = "/research/lmu-physik/"}
-    { name = "AI/ML Projects", url = "https://rajatsaxena314.github.io/extras/#ai--ml-projects"} 
-  ]
+  imageRight = true
     
-
-[params.cover]xs
+[params.cover]
   hiddenInList = false
   hiddenInSingle = false
 

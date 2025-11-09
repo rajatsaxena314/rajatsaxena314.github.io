@@ -86,6 +86,14 @@ theme = "PaperMod"
   url = "/Rajat_Saxena_CV.pdf"
 
 [[params.profileMode.buttons]]
+  name = "Master's Thesis"
+  url = "https://rajatsaxena314.github.io/research/lmu-physik/"
+
+[[params.profileMode.buttons]]
+  name = "Internship"
+  url = "https://rajatsaxena314.github.io/research/usm/"
+
+[[params.profileMode.buttons]]
   name = "AI/ML Projects"
   url = "https://rajatsaxena314.github.io/extras/#ai--ml-projects"
 

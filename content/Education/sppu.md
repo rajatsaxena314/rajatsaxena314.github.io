@@ -1,6 +1,6 @@
 +++
 title = "BSc Blended in Physics"
-summary = "Interdisciplinary School of Science, Savitribai Phule Pune University | October 2021 - June 2024 | **CGPA: 9.32**" 
+summary = "Interdisciplinary School of Science | Savitribai Phule Pune University | October 2021 - June 2024 | **CGPA: 9.32**" 
 dateString = "Mar 2023"
 draft = false
 weight = 20

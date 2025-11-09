@@ -13,7 +13,7 @@ showToc = false
 - **Emergent Weight Morphologies in Deep Neural Networks**  
     Investigated the emergent structural patterns in neural network weights that arise independently of the training
     data. Also examined how these structural patterns change with alterations in hyperparameters and training
-    strategies. Relevant Paper avaliable [here](https://arxiv.org/abs/2501.05550)
+    strategies. Relevant Paper avaliable [here](https://arxiv.org/abs/2501.05550).
 
 - **Neural Networks for Quantum Many-Body Physics**  
     Implemented a Restricted Boltzmann Machine (RBM) ansatz within a Monte Carlo framework to approximate the
@@ -29,13 +29,13 @@ showToc = false
 
 ## Selected Conferences
 ### Oral Presentations
-1. [**30th Young Scientists' Conference on Astronomy and Space Physics**](https://rcs.web.cern.ch/node/509), National University of Kyiv, April 2024
-2. [**10th National Student Symposium on Physics**](https://sites.google.com/view/nssp2023), Indian Association Physics Teachers (IAPT), October 2023  
+1. [**30th Young Scientists' Conference on Astronomy and Space Physics**](https://rcs.web.cern.ch/node/509), National University of Kyiv, April 2024.
+2. [**10th National Student Symposium on Physics**](https://sites.google.com/view/nssp2023), Indian Association Physics Teachers (IAPT), October 2023.
 
 ### Poster Presentations
-1. **Symposium on Magnetism and Spintronics**, Indian Institute of Technology - Bombay, July 2024
+1. **Symposium on Magnetism and Spintronics**, Indian Institute of Technology - Bombay, July 2024.
 
-2. [**National Space Science Symposium**](https://nsss2024.unigoa.ac.in/), Indian Space Research Organization (ISRO), February 2024
+2. [**National Space Science Symposium**](https://nsss2024.unigoa.ac.in/), Indian Space Research Organization (ISRO), February 2024.
 
 ---
 

@@ -85,6 +85,18 @@ theme = "PaperMod"
   name = "CV"
   url = "/Rajat_Saxena_CV.pdf"
 
+[[params.profileMode.buttons]]
+  name = "AI/ML Projects"
+  url = "https://rajatsaxena314.github.io/extras/#ai--ml-projects"
+
+[[params.profileMode.buttons]]
+  name = "Conferences"
+  url = "https://rajatsaxena314.github.io/extras/#selected-conferences"
+
+[[params.profileMode.buttons]]
+  name = "Workshops"
+  url = "https://rajatsaxena314.github.io/extras/#relevant-workshops"
+
 [params.fuseOpts]
   isCaseSensitive = false
   shouldSort = true

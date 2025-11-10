@@ -87,19 +87,19 @@ theme = "PaperMod"
 
 [[params.profileMode.buttons]]
   name = "Master's Thesis"
-  url = "https://rajatsaxena314.github.io/research/lmu-physik/"
+  url = "/research/lmu-physik/"
 
 [[params.profileMode.buttons]]
   name = "AI/ML Projects"
-  url = "https://rajatsaxena314.github.io/extras/#ai--ml-projects"
+  url = "/extras/#ai--ml-projects"
 
 [[params.profileMode.buttons]]
   name = "Conferences"
-  url = "https://rajatsaxena314.github.io/extras/#selected-conferences"
+  url = "/extras/#selected-conferences"
 
 [[params.profileMode.buttons]]
   name = "Workshops"
-  url = "https://rajatsaxena314.github.io/extras/#relevant-workshops"
+  url = "/extras/#relevant-workshops"
 
 [params.fuseOpts]
   isCaseSensitive = false

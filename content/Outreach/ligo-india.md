@@ -4,11 +4,7 @@ summary = "Inter University Center for Astronomy and Astrophysics | January 2023
 dateString = "Mar 2023"
 draft = false
 weight = 10
-cover = { 
-    image = "/outreach/LIGO.jpg",
-}
-showToc = false
-showCover = false
+showtoc = false
 +++
 
 Inter University Center for Astronomy and Astrophysics| January 2023 – July 2024

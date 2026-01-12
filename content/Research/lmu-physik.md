@@ -10,7 +10,7 @@ showtoc = false
 
 #### Mentor: [Prof. Dr Steffen Rualnds](https://www.theorie.physik.uni-muenchen.de/lsfrey/members/group_leaders/steffen_rulands/index.html) & [Onurcan Bektas](https://www.theorie.physik.uni-muenchen.de/lsfrey/members/phd_postdocs/onurcan_bektas/index.html)
 
-- Investigating the emergence of self-organised hierarchies in robotic systems governed by deep neural networks (DNNs) for decision-making. 
+- Investigating the emergence of role specialisation in multi-agent systems as a form of collective memory addressing the plasticity–memory dilemma.
 
 - Assembling and programming autonomous robots to perform collective tasks. Implementing multiple neural network architectures trained on multimodal sensory inputs.
 

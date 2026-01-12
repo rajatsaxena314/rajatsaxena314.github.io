@@ -10,7 +10,7 @@ showToc = false
     images and redshift data of clusters. The redshift data was concatenated to the convoluted and flattened image
     data before being fed to the fully connected network. Code avaliable [here](https://github.com/rajatsaxena314/CNNs-for-Mass-Estimation-of-X-Rays-Clusters).
 
-- **Time-depedent Neural Quantum States**
+- **Time-depedent Neural Quantum States** 
     Inspired from [Van der Walle, Anka [2015]](https://iopscience.iop.org/article/10.1088/2632-2153/ae0f39/meta), implemented a Transformer encoder-decoder to explicity encode the time and tokenised lattice configurations to predict the time evloution of a Transverse Field Ising Model in 1D. Used a custom loss function to minimize the deivations from Schrödinger equation. Code avaliable [here](https://github.com/rajatsaxena314/Time_Dependent-NQS)
 
 - **Emergent Weight Morphologies in Deep Neural Networks**  

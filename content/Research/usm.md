@@ -6,7 +6,7 @@ weight = 20
 showtoc = false
 +++
 
-#### Research Intern | [Universitäts-Sternwarte München](https://www.usm.uni-muenchen.de/), Ludwig-Maximilians-Universität | March 2025 - Present 
+#### Research Intern | [Universitäts-Sternwarte München](https://www.usm.uni-muenchen.de/), Ludwig-Maximilians-Universität | March 2025 - October 2025
 
 #### Mentor: [Dr Til Birnstiel](https://www.physik.lmu.de/en/about-us/people/contact-page/til-birnstiel-abb3ee27.html), Professor 
 
@@ -27,4 +27,7 @@ The plot shows dust particles initialized with different orbital conditions grad
 #### Material:
 
 Avaliable: [Astrobites](https://astrobites.org/2025/08/26/build-a-planet-workshop-planet-formation-one-bump-at-a-time/)   
-The code is avaliable at: [Link](https://github.com/rajatsaxena314/dusty-collapse)
+The code is avaliable at:
+- [Collpase of Dust Cloud](https://github.com/rajatsaxena314/dusty-collapse)
+- [Gas-Dust Dynamics based on Protostellar Hydrodynamics](https://github.com/rajatsaxena314/gas-drag-dynamics-with-hydrodynamic-snaphosts)
+- [Custom Integrators](https://github.com/rajatsaxena314/Semi-Implicit-and-Exponential-Mid-Point-Integrators)

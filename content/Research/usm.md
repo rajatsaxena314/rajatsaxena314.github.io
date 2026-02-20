@@ -1,6 +1,6 @@
 +++
 title = "N-body Simulations of Dust Cloud Collapse in Star–Disk Systems"
-summary = "Research Intern | Universitäts-Sternwarte München, Ludwig-Maximilians-Universität | March 2025 - Present"
+summary = "Research Intern | Universitäts-Sternwarte München, Ludwig-Maximilians-Universität | March 2025 - October 2025"
 draft = false
 weight = 20
 showtoc = false

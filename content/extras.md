@@ -26,9 +26,9 @@ showToc = false
 
 ## Selected Conferences
 ### Oral Presentations
-1. [**10th IMPRS-IS Interview Symposium**](https://imprs.is.mpg.de/), Max Planck Institute for Intelligent Systems, February 2026.
-2. [**30th Young Scientists' Conference on Astronomy and Space Physics**](https://rcs.web.cern.ch/node/509), National University of Kyiv, April 2024.
-3. [**10th National Student Symposium on Physics**](https://sites.google.com/view/nssp2023), Indian Association Physics Teachers (IAPT), October 2023.
+
+1. [**30th Young Scientists' Conference on Astronomy and Space Physics**](https://rcs.web.cern.ch/node/509), National University of Kyiv, April 2024.
+2. [**10th National Student Symposium on Physics**](https://sites.google.com/view/nssp2023), Indian Association Physics Teachers (IAPT), October 2023.
 
 ### Poster Presentations
 1. **Symposium on Magnetism and Spintronics**, Indian Institute of Technology - Bombay, July 2024.
@@ -44,5 +44,5 @@ showToc = false
 2. [**German Italian Physics Exchange**](https://ai-sf.it/gipe/), German Physical Society & Associazione Italiana Studenti di Fisica, Sept 2025.  
     Selected as one of 20 students from a competitive pool of 106 applicants across Germany and Italy to participate in this exchange program.
 
-3. [**Summer University for Plasma Physics and Fusion Research**](https://www.ipp.mpg.de/summeruni/), Max Planck Institute for Plasma Physics, Sept 2025  
+3. [**Summer University for Plasma Physics and Fusion Research**](https://www.ipp.mpg.de/summeruni/), Max Planck Institute for Plasma Physics, Sept 2025.  
     Selected as one of 60 students from a competitive pool of 150+ applicants across Europe to participate in this Summer School.

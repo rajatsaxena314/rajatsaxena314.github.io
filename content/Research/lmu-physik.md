@@ -15,3 +15,6 @@ showtoc = false
 - Assembling and programming autonomous robots to perform collective tasks. Implementing multiple neural network architectures trained on multimodal sensory inputs.
 
 - Designing and simulating experiments to model and analyse collective behaviour and performance outcomes under different tasks. 
+
+![](/research/asc.png)
+This figure shows the specialization of two agents on two tasks based on a certain configuration of the hyperparameters.

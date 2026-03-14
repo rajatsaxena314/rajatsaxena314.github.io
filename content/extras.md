@@ -27,8 +27,11 @@ showToc = false
 ## Selected Conferences
 ### Oral Presentations
 
-1. [**30th Young Scientists' Conference on Astronomy and Space Physics**](https://rcs.web.cern.ch/node/509), National University of Kyiv, April 2024.
-2. [**10th National Student Symposium on Physics**](https://sites.google.com/view/nssp2023), Indian Association Physics Teachers (IAPT), October 2023.
+1. [**10th IMPRS-IS Interview Symposium**](https://imprs.is.mpg.de/), Max Planck Institute for Intelligent Systems, February 2026
+
+2. [**30th Young Scientists' Conference on Astronomy and Space Physics**](https://rcs.web.cern.ch/node/509), National University of Kyiv, April 2024.
+
+3. [**10th National Student Symposium on Physics**](https://sites.google.com/view/nssp2023), Indian Association Physics Teachers (IAPT), October 2023.
 
 ### Poster Presentations
 1. **Symposium on Magnetism and Spintronics**, Indian Institute of Technology - Bombay, July 2024.

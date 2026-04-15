@@ -41,11 +41,15 @@ showToc = false
 ---
 
 ## Relevant Workshops
-1. [**Trento-Innsbruck Quantum Information Tour**](https://ai-sf.it/tiqit/), Associazione Italiana Studenti di Fisica, Feb 2026.
+
+1. [**Fundamental of Deep Learning**](https://plan.events.mpg.de/event/731/), Max‑Planck Computing and Data Facility & Nvidia Deep Learning Institute, April 2026.
+    Attended a hands-on Deep Learning workshop, covering data augmentation, transfer learning, and NLP. Gained practical experience with pretrained models (BERT, VGG16) and explored broader machine learning applications beyond physics.
+
+2. [**Trento-Innsbruck Quantum Information Tour**](https://ai-sf.it/tiqit/), Associazione Italiana Studenti di Fisica, Feb 2026.
     Selected as one of 40 participants for the visit of experimental and computational facilities in Innsbruck and Trento dedicated to Quantum Physics. The workshop was funded by the AG Rulands Group, Arnold-Sommerfeld Center, LMU-Munich.
 
-2. [**German Italian Physics Exchange**](https://ai-sf.it/gipe/), German Physical Society & Associazione Italiana Studenti di Fisica, Sept 2025.  
+3. [**German Italian Physics Exchange**](https://ai-sf.it/gipe/), German Physical Society & Associazione Italiana Studenti di Fisica, Sept 2025.  
     Selected as one of 20 students from a competitive pool of 106 applicants across Germany and Italy to participate in this exchange program.
 
-3. [**Summer University for Plasma Physics and Fusion Research**](https://www.ipp.mpg.de/summeruni/), Max Planck Institute for Plasma Physics, Sept 2025.  
+4. [**Summer University for Plasma Physics and Fusion Research**](https://www.ipp.mpg.de/summeruni/), Max Planck Institute for Plasma Physics, Sept 2025.  
     Selected as one of 60 students from a competitive pool of 150+ applicants across Europe to participate in this Summer School.

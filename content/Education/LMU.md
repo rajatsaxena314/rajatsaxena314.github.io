@@ -1,7 +1,6 @@
 +++
 title = "MSc in Physics"
 summary = "Faculty of Physics | Ludwig-Maximilians-Universität München | October 2024 - Present | Grade: 2.04" 
-dateString = "Mar 2023"
 draft = false
 weight = 10
 showtoc = false

@@ -34,22 +34,27 @@ showToc = false
 3. [**10th National Student Symposium on Physics**](https://sites.google.com/view/nssp2023), Indian Association Physics Teachers (IAPT), October 2023.
 
 ### Poster Presentations
-1. **Symposium on Magnetism and Spintronics**, Indian Institute of Technology - Bombay, July 2024.
+1. [**Summer Graduate School for Machine Learning**](https://indico.ictp.it/event/11148), ICTP, INdAM, SLMath, June 2026.
 
-2. [**National Space Science Symposium**](https://nsss2024.unigoa.ac.in/), Indian Space Research Organization (ISRO), February 2024.
+2. **Symposium on Magnetism and Spintronics**, Indian Institute of Technology - Bombay, July 2024.
+
+3. [**National Space Science Symposium**](https://nsss2024.unigoa.ac.in/), Indian Space Research Organization (ISRO), February 2024.
 
 ---
 
 ## Relevant Workshops
 
-1. [**Fundamental of Deep Learning**](https://plan.events.mpg.de/event/731/), Max‑Planck Computing and Data Facility & Nvidia Deep Learning Institute, April 2026.
+1. [**Summer Graduate School for Machine Learning**](https://indico.ictp.it/event/11148), Abdus Salam International Centre for Theoretical Physics (ICTP), Istituto Nazionale di Alta Matematica (INdAM), and the Simons Laufer Mathematical Sciences Institute (SLMath) / MSRI, June 2026.
+    Attended the prestigious Summer Graduate School for Machine Learning in Trieste, Italy, after being selected as one of 85 global participants out of 500+. The two-week intensive program, offered deep theoretical insights into advanced ML methods and provided a fantastic opportunity to connect with an international network of researchers.
+
+2. [**Fundamental of Deep Learning**](https://plan.events.mpg.de/event/731/), Max‑Planck Computing and Data Facility & Nvidia Deep Learning Institute, April 2026.  
     Attended a hands-on Deep Learning workshop, covering data augmentation, transfer learning, and NLP. Gained practical experience with pretrained models (BERT, VGG16) and explored broader machine learning applications beyond physics.
 
-2. [**Trento-Innsbruck Quantum Information Tour**](https://ai-sf.it/tiqit/), Associazione Italiana Studenti di Fisica, Feb 2026.
+3. [**Trento-Innsbruck Quantum Information Tour**](https://ai-sf.it/tiqit/), Associazione Italiana Studenti di Fisica, Feb 2026.  
     Selected as one of 40 participants for the visit of experimental and computational facilities in Innsbruck and Trento dedicated to Quantum Physics. The workshop was funded by the AG Rulands Group, Arnold-Sommerfeld Center, LMU-Munich.
 
-3. [**German Italian Physics Exchange**](https://ai-sf.it/gipe/), German Physical Society & Associazione Italiana Studenti di Fisica, Sept 2025.  
+4. [**German Italian Physics Exchange**](https://ai-sf.it/gipe/), German Physical Society & Associazione Italiana Studenti di Fisica, Sept 2025.  
     Selected as one of 20 students from a competitive pool of 106 applicants across Germany and Italy to participate in this exchange program.
 
-4. [**Summer University for Plasma Physics and Fusion Research**](https://www.ipp.mpg.de/summeruni/), Max Planck Institute for Plasma Physics, Sept 2025.  
+5. [**Summer University for Plasma Physics and Fusion Research**](https://www.ipp.mpg.de/summeruni/), Max Planck Institute for Plasma Physics, Sept 2025.  
     Selected as one of 60 students from a competitive pool of 150+ applicants across Europe to participate in this Summer School.

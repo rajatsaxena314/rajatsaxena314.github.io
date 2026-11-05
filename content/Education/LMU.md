@@ -1,14 +1,14 @@
 +++
 title = "MSc in Physics"
-summary = "Faculty of Physics | Ludwig-Maximilians-Universität München | October 2024 - Present | Grade: 2.04" 
+summary = "Faculty of Physics | Ludwig-Maximilians-Universität München | October 2024 - September 2026 | Grade: 1.58" 
 draft = false
 weight = 10
 showtoc = false
 +++
 
-Faculty of Physics | Ludwig-Maximilians-Universität München | October 2024 - Present   
+Faculty of Physics | Ludwig-Maximilians-Universität München | October 2024 - September 2026
 
-**Current Grade: 2.04** (1 Highest, 5 Fail)
+**Final Grade: 1.58** (1 Highest, 5 Fail)
 
 ### Relevant Course Work:
 
@@ -31,4 +31,4 @@ Faculty of Physics | Ludwig-Maximilians-Universität München | October 2024 - P
 - Research Project in Physics: Phase 2
 
 #### Semester 4:
-- Non-equilibrium Physics of Machine Learning
+- Thesis

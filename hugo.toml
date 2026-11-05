@@ -54,7 +54,7 @@ theme = "PaperMod"
 [params.profileMode]
   enabled = true
   title = "Rajat Saxena"
-  subtitle = "I am a master's student at <u>[Ludwig-Maximilians-Universität München](https://www.physik.lmu.de/en/)</u> and currently pursuing my thesis at the <u>[Rulands Group](https://www.theorie.physik.uni-muenchen.de/lsfrey/group_rulands/index.html)</u>. My research interests lie in Theoretical and Computational Physics, with a focus on Statistical Mechanics and non-equilibrium physics of Machine Learning."
+  subtitle = "I am an IMPRS-IS Fellow at <u>[the Institute for Theoretical Physics IV](https://www.itp4.uni-stuttgart.de/)</u> in the <u>[Speck Group](https://www.itp4.uni-stuttgart.de/institute/team/)</u>. My research interests lie in Non-equilibiurm Phenomenon and Statistical Physics approaches to Machine Learning"
   imageUrl = "/IMG_1988.jpg"
   imageWidth = 200
   imageHeight = 200
@@ -67,7 +67,7 @@ theme = "PaperMod"
 
 [[params.socialIcons]]
   name = "email"
-  url = "mailto:rajat.saxena@campus.lmu.de"
+  url = "mailto:rajat.saxena@itp4.uni-stuttgart.de"
 
 [[params.socialIcons]]
   name = "Linkedin"
@@ -84,10 +84,6 @@ theme = "PaperMod"
 [[params.socialIcons]]
   name = "CV"
   url = "/Rajat_Saxena_CV.pdf"
-
-[[params.profileMode.buttons]]
-  name = "Master's Thesis"
-  url = "/research/lmu-physik/"
 
 [[params.profileMode.buttons]]
   name = "AI/ML Projects"
